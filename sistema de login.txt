@@ -1,2 +1,2 @@
-digite seu login
-digite sua senha
+digite seu login: joao
+digite sua senha: 2303
